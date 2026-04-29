@@ -1,4 +1,4 @@
-# RetailSales-Analysis
+# RetailSales-Analysis  (SQL + Power BI)
 Retail sales analysis project using SQL and Power BI. Covers data extraction, KPI analysis, and interactive dashboard creation to generate business insights like revenue trends, customer segmentation, and product performance.
 
 # 🛒 Retail Sales Analysis (SQL + Power BI)
@@ -56,7 +56,7 @@ RetailSales-Analysis/
 (Add your screenshot here — upload image in `screenshots/` and paste it below)
 
 ```
-![Dashboard](screenshots/your-image-name.png)
+![Dashboard](screenshots/dashboard.png)
 ```
 
 ---
